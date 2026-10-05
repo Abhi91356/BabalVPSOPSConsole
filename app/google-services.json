@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68585368494",
+    "project_id": "babalcloud-6babf",
+    "storage_bucket": "babalcloud-6babf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68585368494:android:ae160573912b6c4656f63f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wOV-L2S5r_UIuCK04h32uaPserdwvg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
